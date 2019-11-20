@@ -564,7 +564,8 @@ l = {
                     tt: {
                         KR: "Damage, Healed 데이터 유형",
                         JP: "Damage、Healedデータタイプ",
-                        EN: "Type de données Dégâts, Boucliers ",
+                        EN: "Data Type of Damage, Healed ",
+                        FR: "Type de données Dégâts, Boucliers ",
                         DE: "Datentyp der Damage, Healed ",
                         CN: "Damage，Healed 数据类型",
                     },
